@@ -416,6 +416,257 @@
         "indexh": 0,
         "indexf": -1
       }
+    },
+    {
+      "timing": 0.004040193069507062,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.015313355041203973,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.017508431161415202,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.05192382831679167,
+      "state": {
+        "indexh": 1,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.0712556989071654,
+      "state": {
+        "indexh": 1,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.07787148048429403,
+      "state": {
+        "indexh": 1,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.09170704534939025,
+      "state": {
+        "indexh": 1,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.10935028386611427,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.12038294623387369,
+      "state": {
+        "indexh": 2,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.13803689999213195,
+      "state": {
+        "indexh": 2,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.1479850952181332,
+      "state": {
+        "indexh": 2,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.173086110214816,
+      "state": {
+        "indexh": 2,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.1976619695882654,
+      "state": {
+        "indexh": 2,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.2075961366265026,
+      "state": {
+        "indexh": 2,
+        "indexf": 5
+      }
+    },
+    {
+      "timing": 0.2175107259611873,
+      "state": {
+        "indexh": 2,
+        "indexf": 6
+      }
+    },
+    {
+      "timing": 0.2472981445683626,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.30574706531635415,
+      "state": {
+        "indexh": 3,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.3242603532408867,
+      "state": {
+        "indexh": 3,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.3418221294256133,
+      "state": {
+        "indexh": 3,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.3473327941921399,
+      "state": {
+        "indexh": 3,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.40027555419238064,
+      "state": {
+        "indexh": 3,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.4620581054597892,
+      "state": {
+        "indexh": 4,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.499509048797236,
+      "state": {
+        "indexh": 4,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5432368851557048,
+      "state": {
+        "indexh": 4,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.5717400287067897,
+      "state": {
+        "indexh": 4,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.6506139996620182,
+      "state": {
+        "indexh": 4,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.672668428289431,
+      "state": {
+        "indexh": 4,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.745447513394317,
+      "state": {
+        "indexh": 4,
+        "indexf": 5
+      }
+    },
+    {
+      "timing": 0.769723799628707,
+      "state": {
+        "indexh": 4,
+        "indexf": 6
+      }
+    },
+    {
+      "timing": 0.7890792137530734,
+      "state": {
+        "indexh": 5,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.8365422812843635,
+      "state": {
+        "indexh": 5,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.8508798920503606,
+      "state": {
+        "indexh": 5,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.897386714613484,
+      "state": {
+        "indexh": 6,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.9029071302506178,
+      "state": {
+        "indexh": 6,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.915049214613484,
+      "state": {
+        "indexh": 6,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.9613773782209672,
+      "state": {
+        "indexh": 7
+      }
     }
   ],
   "slides/chapter_1_hello_python.md": [
