@@ -342,7 +342,8 @@ In [8]: help(round)   # Open documentation
 *** =script
 There's no input to match to the ndigits argument though. 
 
---- type:TwoRows key:adab365ed4 disable_transition:true
+
+--- type:TwoRows key:d50f6aae49 disable_transition:true
 ## `round()`
 
 *** =part1
@@ -366,7 +367,9 @@ In [8]: help(round)   # Open documentation
 *** =script
 Luckily, the internal machinery of the round() function knows how to handle this. 
 
---- type:TwoRows key:d6cd99b054disable_transition:true
+
+
+--- type:TwoRows key:d6cd99b054 disable_transition:true
 ## `round()`
 
 *** =part1
@@ -392,7 +395,7 @@ When ndigits is not specified, the function simply rounds to the closest integer
 
 
 
---- type:FullSlide key:a1df0f54f8 disable_transition:true
+--- type:FullSlide key:d5a14cd4fe disable_transition:true
 ## `round()`
 
 *** =part1
@@ -415,7 +418,8 @@ In [8]: help(round)   # Open documentation
 *** =script
 How was I so sure that calling the function with a single input would work? Well, in the documentation, there are square brackets around the comma and the ndigits here. This tells us that you can call round() in this form, as well as in this one. In other words, ndigits is an optional argument. Actually, Python offers yet another way to show that a function has optional arguments, but that's something for the exercises.
 
---- type:FullSlide key:ac4126e12a
+
+--- type:FullSlide key:0d4ff1139f
 ## Find functions
 
 *** =part1
@@ -428,7 +432,8 @@ By now, you have an idea about how to use max() and round(), but how could you k
 
 
 
---- type:FinalSlide key:b009533050
+
+--- type:FinalSlide key:dc622108df
 ## Let's practice!
 
 *** =script
