@@ -131,7 +131,7 @@ But that's not all. I just told you that lists can also contain lists themselves
 
 
 --- type:FullSlide key:f1b5a1306a
-## List type
+## `List` type
 
 *** =part1
 ```

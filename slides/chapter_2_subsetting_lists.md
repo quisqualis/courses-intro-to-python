@@ -40,7 +40,7 @@ Out[2]: ['liz', 1.73, 'emma', 1.68, 'mom', 1.71, 'dad', 1.89]
 ```
 #         -8     -7     -6     -5    -4    -3     -2     -1
  
-```{{4}}
+```{{5}}
 
 ```
 In [3]: fam[3]
@@ -53,11 +53,15 @@ Out[4]: 'dad'
 ```
 In [5]: fam[-1]
 Out[5]: 1.89
-```{{5}}
+```{{4}}
 ```
-In [6]: fam[-2]
-Out[6]: 'dad'
+In [6]: fam[-3]
+Out[6]: 1.71
 ```{{6}}
+```
+In [7]: fam[5]
+Out[7]: 1.71
+```{{7}}
 
 *** =script
 Python uses the index to do this. Have a look at fam again here. The first element in the list has index 0, the second element has index 1, and so on. Suppose that you want to select the height of emma, the float 1.68. It's the fourth element, so it has index 3. To select it, you use 3 inside square brackets:
@@ -79,14 +83,16 @@ This means that this line and this line, return the same result:
 In [7]: fam
 Out[7]: ['liz', 1.73, 'emma', 1.68, 'mom', 1.71, 'dad', 1.89]
 #          0      1      2      3     4     5      6      7
-```
+``` {{1}}
 
 ```
 In [8]: fam[3:5]
+```{{2}}
+```
 Out[8]: [1.68, 'mom']
-```{{1}}
+```{{3}}
 
-`[start : end]` $\rightarrow$ [inclusive : exclusive] {{2}}
+`[start : end]` $\rightarrow$ [inclusive : exclusive] {{4}}
 
 
 *** =script
@@ -99,7 +105,7 @@ Apparently, only the elements with index 3 and 4, get returned. The element with
 
 
 
---- type:FullSlide key:446ace9bcb
+--- type:FullSlide key:446ace9bcb disable_transition:true
 ## List Slicing
 
 *** =part1
@@ -113,16 +119,18 @@ Out[8]: [1.68, 'mom']
 ```
 ```
 In [9]: fam[1:4]
-Out[9]: [1.73, 'emma', 1.68]
 ``` {{1}}
+```
+Out[9]: [1.73, 'emma', 1.68]
+``` {{2}}
 ```
 In [10]: fam[:4]
 Out[10]: ['liz', 1.73, 'emma', 1.68]
-``` {{2}}
+``` {{3}}
 ```
 In [11]: fam[5:]
 Out[11]: [1.71, 'dad', 1.89]
-``` {{3}}
+``` {{4}}
 
 
 *** =script

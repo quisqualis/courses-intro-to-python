@@ -28,9 +28,9 @@ After creation and subsetting, the final piece of the Python lists puzzle is man
 ## List Manipulation
 
 *** =part1
-- Change list elements
-- Add list elements
-- Remove list elements
+- Change list elements {{1}}
+- Add list elements {{2}}
+- Remove list elements {{3}}
 
 *** =script
 so ways to change elements in your list, or to add elements to and remove elements from your list.
@@ -119,7 +119,7 @@ In [13]: x = ["a", "b", "c"]
 ``` {{1}}
 ```
 In [14]: y = x
-``` {{2}}
+``` {{3}}
 ```
 In [15]: y[1] = "z"
 
@@ -132,7 +132,7 @@ Out[17]: ['a', 'z', 'c']
 ``` {{5}}
 
 *** =part2
-![](https://s3.amazonaws.com/assets.datacamp.com/production/course_4550/datasets/bts_1.png) {{3}}
+![](https://s3.amazonaws.com/assets.datacamp.com/production/course_4550/datasets/bts_1.png) {{2}}
 
 *** =script
 Understanding how Python lists actually work behind the scenes becomes pretty important now. What actually happens when you create a new list, x, like this?
