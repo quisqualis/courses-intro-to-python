@@ -32,15 +32,6 @@ title: Instructor, DataCamp
 A typical first step in analyzing your data, is getting to know your data in the first place. For the Numpy arrays from before, this is pretty easy, because it isn't a lot of data. However, as a data scientist, you'll be crunching thousands, if not millions or billions of numbers.
 
 
-
---- type:FullSlide key:27538e89f0
-## <<<New Slide>>>
-
-*** =part1
-
-*** =script
-
-
 --- type:FullSlide key:4bc42d2011
 ## City-wide survey
 
