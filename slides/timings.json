@@ -1,10 +1,216 @@
 {
-  "slides/chapter_4_2_d_num_py_arrays.md": [
+  "slides/chapter_1_hello_python.md": [
     {
       "timing": 0,
       "state": {
         "indexh": 0,
         "indexf": -1
+      }
+    },
+    {
+      "timing": 0.005911529163313998,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.034710023642852895,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.06613453268058002,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.06959413855509479,
+      "state": {
+        "indexh": 1,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.0903476525895571,
+      "state": {
+        "indexh": 1,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.09495296018405212,
+      "state": {
+        "indexh": 1,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.10186494367648426,
+      "state": {
+        "indexh": 1,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.1195185129204442,
+      "state": {
+        "indexh": 2
+      }
+    },
+    {
+      "timing": 0.19488631913565282,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.19834341174190837,
+      "state": {
+        "indexh": 3,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.21677133102315563,
+      "state": {
+        "indexh": 3,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.26066810090864867,
+      "state": {
+        "indexh": 3,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.2794541984798428,
+      "state": {
+        "indexh": 3,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.3109838005734333,
+      "state": {
+        "indexh": 3,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.4377551498516246,
+      "state": {
+        "indexh": 3,
+        "indexf": 5
+      }
+    },
+    {
+      "timing": 0.48653893798910214,
+      "state": {
+        "indexh": 4
+      }
+    },
+    {
+      "timing": 0.5245895931433794,
+      "state": {
+        "indexh": 5
+      }
+    },
+    {
+      "timing": 0.5334126760497677,
+      "state": {
+        "indexh": 6,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5368735772942467,
+      "state": {
+        "indexh": 6,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5530809835245355,
+      "state": {
+        "indexh": 7
+      }
+    },
+    {
+      "timing": 0.6509748576342315,
+      "state": {
+        "indexh": 8,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.6675042900717079,
+      "state": {
+        "indexh": 8,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.6840369079207332,
+      "state": {
+        "indexh": 8,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.6967129558441483,
+      "state": {
+        "indexh": 8,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.7252066742033539,
+      "state": {
+        "indexh": 9
+      }
+    },
+    {
+      "timing": 0.7482585433429229,
+      "state": {
+        "indexh": 10
+      }
+    },
+    {
+      "timing": 0.7643931875820548,
+      "state": {
+        "indexh": 11
+      }
+    },
+    {
+      "timing": 0.8104897483130277,
+      "state": {
+        "indexh": 12
+      }
+    },
+    {
+      "timing": 0.8197184295336538,
+      "state": {
+        "indexh": 13
+      }
+    },
+    {
+      "timing": 0.9351728190704537,
+      "state": {
+        "indexh": 14
+      }
+    },
+    {
+      "timing": 0.984733585392844,
+      "state": {
+        "indexh": 15
       }
     }
   ],
@@ -15,81 +221,204 @@
         "indexh": 0,
         "indexf": -1
       }
+    },
+    {
+      "timing": 0.007229674864794737,
+      "state": {
+        "indexh": 0,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.04752112154238936,
+      "state": {
+        "indexh": 1,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.06253035848694175,
+      "state": {
+        "indexh": 1,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.09004654662824463,
+      "state": {
+        "indexh": 1,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.12784614848618756,
+      "state": {
+        "indexh": 1,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.15913028099094112,
+      "state": {
+        "indexh": 1,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.18287525291109796,
+      "state": {
+        "indexh": 1,
+        "indexf": 4
+      }
+    },
+    {
+      "timing": 0.214151936186328,
+      "state": {
+        "indexh": 2,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.2311566448123712,
+      "state": {
+        "indexh": 2,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.2573538053435981,
+      "state": {
+        "indexh": 2,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.2723488692409778,
+      "state": {
+        "indexh": 2,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.3411414532943517,
+      "state": {
+        "indexh": 2,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.4061913223089808,
+      "state": {
+        "indexh": 3,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.42560966981380416,
+      "state": {
+        "indexh": 3,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.45354965096145916,
+      "state": {
+        "indexh": 4,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.46634829169595693,
+      "state": {
+        "indexh": 4,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.5386030030130511,
+      "state": {
+        "indexh": 5,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.5670888600168276,
+      "state": {
+        "indexh": 5,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.6291676372639836,
+      "state": {
+        "indexh": 5,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.676003041006623,
+      "state": {
+        "indexh": 6,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.7083152663938969,
+      "state": {
+        "indexh": 6,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.7256332350381904,
+      "state": {
+        "indexh": 6,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.7768994129486845,
+      "state": {
+        "indexh": 6,
+        "indexf": 2
+      }
+    },
+    {
+      "timing": 0.8056715842120843,
+      "state": {
+        "indexh": 6,
+        "indexf": 3
+      }
+    },
+    {
+      "timing": 0.8281955078454448,
+      "state": {
+        "indexh": 7,
+        "indexf": -1
+      }
+    },
+    {
+      "timing": 0.8393446526479134,
+      "state": {
+        "indexh": 7,
+        "indexf": 0
+      }
+    },
+    {
+      "timing": 0.8559954042739492,
+      "state": {
+        "indexh": 7,
+        "indexf": 1
+      }
+    },
+    {
+      "timing": 0.9473229352386501,
+      "state": {
+        "indexh": 8
+      }
     }
   ],
   "slides/chapter_2_lists_what_are_they.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_3_packages.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_1_hello_python.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_2_list_manipulation.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_2_subsetting_lists.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_3_functions.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_4_num_py.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_4_num_py_basic_statistics.md": [
-    {
-      "timing": 0,
-      "state": {
-        "indexh": 0,
-        "indexf": -1
-      }
-    }
-  ],
-  "slides/chapter_3_methods.md": [
     {
       "timing": 0,
       "state": {

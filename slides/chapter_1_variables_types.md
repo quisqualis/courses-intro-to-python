@@ -112,17 +112,17 @@ In Python, variables are used all the time. They help to make your code reproduc
 ## Reproducibility
 
 *** =part1
-`Script.py`: {{1}}
+`Script.py`: 
 ```
 height = 1.79
 weight = 74.2
 bmi = weight / height ** 2
 print(bmi)
-``` {{1}}
-`Output`: {{2}}
+``` 
+`Output`:
 ```
 23.1578
-``` {{2}}
+``` {{1}}
 
 *** =script
 If you now want to recalculate the bmi for another weight, you can simply change the declaration of the weight variable, and rerun the script. The bmi changes accordingly, because the value of the variable weight has changed.
