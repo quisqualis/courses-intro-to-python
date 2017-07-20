@@ -137,6 +137,7 @@ If you now want to recalculate the bmi for another weight, you can simply change
   In [8]: type(bmi)
   Out[8]: float
   ``` {{1}}
+  
   ```
   In [9]: day_of_week = 5
   
@@ -165,6 +166,7 @@ In [12]: y = 'this works too'
 In [13]: type(y)
 Out[13]: str
 ```{{2}}
+
 ```
 In [14]: z = True
 ```{{3}}
