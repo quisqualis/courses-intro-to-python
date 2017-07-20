@@ -16,7 +16,7 @@ attachments :
 //videos.datacamp.com/transcoded/735_intro_to_python/v3/hls-ch3_1.master.m3u8
 
 *** =projector_key
-19cac7bced13f18bef5637db1c13580c
+e523cc7552c034ad3633861a12d8062a
 
 --- type:NormalExercise lang:python xp:100 skills:2 key:c422ee929b
 ## Familiar functions
