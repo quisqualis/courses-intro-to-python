@@ -34,7 +34,7 @@ You already know about functions such as max(), to get the maximum of a list, le
 
 
 
---- type:TwoRowsTwoColumns key:114ce97242 disable_transition:true
+--- type:TwoRowsTwoColumns key:114ce97242
 
 ## Back 2 Basics
 

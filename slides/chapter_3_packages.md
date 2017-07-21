@@ -159,7 +159,7 @@ np_fam = array(fam_ext)   # using Numpy, but not very clear
 This from import version to use specific parts of a package can be useful to limit the amount of coding, but you're also loosing some of the context. Suppose you're working in a long Python script. You import the array function from numpy at the very top, and way later, you actually use this array function. Somebody else who's reading your code might have forgotten that this array function is a specific Numpy function; it's not clear from the function call.
 
 
---- type:FullSlide key:3f2791906c disable_transition:true
+--- type:FullSlide key:3f2791906c
 ## `import numpy`
 
 *** =part1

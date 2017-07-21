@@ -88,9 +88,9 @@ You can think of the 2D numpy array as an improved list of lists: you can perfor
 
 *** =part1
 ```
-#           1       2       3       4       5
-array([[  1.73,   1.68,   1.71,   1.89,   1.79],   # 1
-       [  65.4,   59.2,   63.6,   88.4,   68.7]])  # 2
+#           0       1       2       3       4
+array([[  1.73,   1.68,   1.71,   1.89,   1.79],   # 0
+       [  65.4,   59.2,   63.6,   88.4,   68.7]])  # 1
 ```
 
 ```
